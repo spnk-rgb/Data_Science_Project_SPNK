@@ -1,1 +1,15 @@
+*************************************************************************************************************
+THIS PROJECT IS REFERRED FROM GUIDED PROJECT FROM COURSERA TITLED AS "NLP: Twitter Sentiment Analysis".
+*************************************************************************************************************
+INTRODUCTON:
 
+Twitter is a platform where people interact with messages known as tweet. Where each tweet is either a response or post with some sentiments associated with it. Analyzing these tweets may prove very helpful to brands, etc. Brands may check the succes of their product using these analyzing techniques. These tweets are either classified as positive sentiment tweet or negative sentiment tweet. Where classified tweets can be assigned a label 1 or 0.
+
+REFRENCE:
+Coursera guided project (NLP: Twitter Sentiment Analysis)
+
+Skills and aim:
+	1.) To create a pipeline to remove stop_words, punctuation in each tweet.
+	2.) Basic data visualizaation and Data cleaning.
+	3) Naive Bayes Classifier and its performance.
+	4.) Count Vectorization.
